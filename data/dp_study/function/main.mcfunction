@@ -32,7 +32,7 @@
 
 #fist
     #fist_fire
-        execute as @a[predicate=dp_study:use,predicate=dp_study:fist,scores={fistCool=..0}] at @s run function dp_study:fist/fist_fire
+#        execute as @a[predicate=dp_study:use,predicate=dp_study:fist,scores={fistCool=..0}] at @s run function dp_study:fist/fist_fire
 
         
 #右クリック
